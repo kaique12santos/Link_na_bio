@@ -2,6 +2,8 @@
 
 Uma página pessoal moderna e responsiva para agendamento de psicoterapia online e palestras.
 
+[**ACESSAR PÁGINA**](https://redes-sociais-jefferson.netlify.app/)
+
 ## 📋 Sobre o Projeto
 
 Esta é uma página de links profissional desenvolvida para Jefferson Rodrigues, psicólogo especializado em psicoterapia online e palestras. A página apresenta um design clean e moderno, com foco na experiência do usuário e acessibilidade.
