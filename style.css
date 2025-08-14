@@ -95,27 +95,7 @@ p {
   flex-shrink: 0;
 }
 
-.bio::before {
-  content: '"';
-  font-size: 60px;
-  position: absolute;
-  top: -3px;
-  left: 2px;
-  color: #3b82f6;
-  opacity: 0.6;
-  font-family: Georgia, serif;
-}
 
-.bio::after {
-  content: '"';
-  font-size: 60px;
-  position: absolute;
-  bottom: 20px;
-  right: 152px;
-  color: #3b82f6;
-  opacity: 0.6;
-  font-family: Georgia, serif;
-}
 
 .author-citation {
   font-size: 14px;
